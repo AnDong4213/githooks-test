@@ -29,8 +29,6 @@ function App() {
         <p>LOGO</p>
         <p>LOGO</p>
         <p>LOGO</p>
-        <p>LOGO</p>
-        <p>LOGO</p>
       </div>
     </div>
   );
