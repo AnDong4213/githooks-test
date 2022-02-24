@@ -25,10 +25,7 @@ function App() {
       <div>
         <p>LOGO</p>
         <img src={logo} className='App-logo' alt='logo' />
-        <span>{name}</span>
-        <p>LOGO</p>
-        <p>LOGO</p>
-        <p>LOGO</p>
+        <span>{name}</span> <p>LOGO</p> <p>LOGO</p> <p>LOGO</p>
         <p>LOGO</p>
         <p>LOGO</p>
       </div>
