@@ -12,5 +12,7 @@
   },
   "[less]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "editor.fontFamily": "Bahnschrift Light",
+  "editor.fontSize": 15
 }
